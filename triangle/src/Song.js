@@ -8,7 +8,7 @@ Song.prototype.persistFavoriteStatus = function(value) {
 
   //mi piace commentare
 
-  //sprint1
+  //sprint2
 
   throw new Error("not yet implemented");
 };
